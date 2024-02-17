@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sankalpa Shrestha
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Framework of JS
-- 💞️ I’m looking to collaborate with real world project
+- 👨‍💻  Learning React Nowdays  
+- 🌱 I’m currently perusing Bachelor Degree
 - 📫 Reach me : joshisankalpa2@gmail.com
 
 <!---
