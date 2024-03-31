@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Medico**
 
-- 🌱 I’m currently learning **Next.js , Django**
+- 🌱 I’m currently learning **React.js , Django**
 
 - 📫 How to reach me **joshisankalpa2@gmail.com**
 
